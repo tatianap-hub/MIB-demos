@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WhereWear Prototype</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #111111;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    .card {
+      max-width: 520px;
+      padding: 40px 32px;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin-bottom: 12px;
+      font-weight: 600;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.45;
+      color: #555555;
+      margin-bottom: 28px;
+    }
+
+    a {
+      display: inline-block;
+      padding: 14px 24px;
+      background: #111111;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 999px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>WhereWear Prototype</h1>
+    <p>
+      Open the interactive Figma prototype. Access is password protected.
+    </p>
+    <a href="PASTE_YOUR_FIGMA_PROTOTYPE_LINK_HERE" target="_blank">
+      Open prototype
+    </a>
+  </div>
+</body>
+</html>
